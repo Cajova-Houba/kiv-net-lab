@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetLab3", "NetLab3\NetLab3.csproj", "{A9371515-6EDF-4C16-B524-85C2F9ADF2BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9371515-6EDF-4C16-B524-85C2F9ADF2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9371515-6EDF-4C16-B524-85C2F9ADF2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9371515-6EDF-4C16-B524-85C2F9ADF2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9371515-6EDF-4C16-B524-85C2F9ADF2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03720429-DEB4-4AF5-8C23-03C38327A680}
+	EndGlobalSection
+EndGlobal
