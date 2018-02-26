@@ -1,0 +1,9 @@
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\NetLab2\obj\Debug\NetLab2.csprojResolveAssemblyReference.cache
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\NetLab2\obj\Debug\NetLab2.csproj.CoreCompileInputs.cache
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\NetLab2\bin\Debug\NetLab2.exe.config
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\NetLab2\bin\Debug\NetLab2.exe
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\NetLab2\bin\Debug\NetLab2.pdb
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\NetLab2\bin\Debug\Invoice.dll
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\NetLab2\bin\Debug\Invoice.pdb
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\NetLab2\obj\Debug\NetLab2.exe
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\NetLab2\obj\Debug\NetLab2.pdb

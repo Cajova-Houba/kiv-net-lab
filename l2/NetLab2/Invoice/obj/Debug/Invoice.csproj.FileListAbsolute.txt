@@ -1,0 +1,6 @@
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\Invoice\bin\Debug\Invoice.dll
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\Invoice\obj\Debug\Invoice.dll
+C:\Users\Zdenda\prg\skola\kiv-net\kiv-net-labs\l2\NetLab2\Invoice\obj\Debug\Invoice.pdb
