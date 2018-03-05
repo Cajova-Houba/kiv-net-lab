@@ -1,0 +1,7 @@
+C:\Users\valesz\Documents\kiv-net-lab\NetLab4\NetLab4\obj\Debug\NetLab4.csprojResolveAssemblyReference.cache
+C:\Users\valesz\Documents\kiv-net-lab\NetLab4\NetLab4\obj\Debug\NetLab4.csproj.CoreCompileInputs.cache
+C:\Users\valesz\Documents\kiv-net-lab\NetLab4\NetLab4\bin\Debug\NetLab4.exe.config
+C:\Users\valesz\Documents\kiv-net-lab\NetLab4\NetLab4\bin\Debug\NetLab4.exe
+C:\Users\valesz\Documents\kiv-net-lab\NetLab4\NetLab4\bin\Debug\NetLab4.pdb
+C:\Users\valesz\Documents\kiv-net-lab\NetLab4\NetLab4\obj\Debug\NetLab4.exe
+C:\Users\valesz\Documents\kiv-net-lab\NetLab4\NetLab4\obj\Debug\NetLab4.pdb
